@@ -31,4 +31,4 @@ $ npm start
 - b9: remove url
 - b10: FB/login
 - b11: FB/login info - need to run a local server: npm start. See the package.json 
-- b12: weather API: http://api.openweathermap.org/data/2.5/weather?q=seoul,uk&appid=2de143494c0b295cca9337e1e96b00e0
+-dfb12: weather API: http://api.openweathermap.org/data/2.5/weather?q=seoul,uk&appid=2de143494c0b295cca9337e1e96b00e0

@@ -10,7 +10,7 @@ var app = angular.module("Bookmark", ['firebase']);
 app.controller("Ctrl", function ($scope, $firebaseArray, $http) {
 	$scope.url;  
 
-    var firebaseURL = "https://sbookmark.firebaseio.com/";
+    var firebaseURL = "https://scorching-heat-345.firebaseio.com/";
 
     $scope.getList = function() {
     	var echoRef = new Firebase(firebaseURL);
